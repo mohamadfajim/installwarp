@@ -49,8 +49,8 @@ curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/endip.sh -o endip.sh &
   7. WARP سه نوع ارتقا / سوئیچ حساب
   8. اسکریپت نصب CFwarp را به روز کنید
 
-  9. 
-  10. هسته فعلی WGCF-WARP را با هسته WARP-GO جایگزین کنید
+  
+  9. هسته فعلی WGCF-WARP را با هسته WARP-GO جایگزین کنید
 
 
 =====================================================
